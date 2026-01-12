@@ -14,20 +14,7 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
-</div>
 
----
-
-<div align="center">
-  
-  <h3>🧐 About Me</h3>
-  <p align="center">
-    I'm a passionate developer turning coffee into code. <br>
-    Currently working on <b>Large Scale Systems</b> and learning <b>Machine Learning</b>.
-  </p>
-
-  <h3>🛠 Tech Stack</h3>
-  
   <img src="https://img.shields.io/badge/.NET-ac99ea?style=for-the-badge&logo=.NET&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-3776AB?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
