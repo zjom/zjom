@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="./birds-dont-sing-they-screech-in-pain.jpg" alt="Birds don't sing. They screech in pain."/>
 
   <h1 align="center">Hi there, I'm <a href="https://github.com/zjom" target="_blank">Zihan</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
