@@ -3,7 +3,7 @@
   <h1 align="center">Hi there, I'm <a href="https://github.com/zjom" target="_blank">Zihan</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Coffee+Connoisseur;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning" alt="Typing SVG" />
   </a>
   
   <p align="center">
@@ -28,6 +28,8 @@
 
   <h3>🛠 Tech Stack</h3>
   
+  <img src="https://img.shields.io/badge/.NET-ac99ea?style=for-the-badge&logo=.NET&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-3776AB?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -38,30 +40,4 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
-</div>
-
-<br>
-
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjom&layout=compact&theme=dracula&hide_border=true"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zjom&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-  </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zjom&theme=dracula&hide_border=true" alt="git-streak" />
-</div>
-
----
-
-<div align="center">
-  <p><i>"The code is documentation enough" - Said no one ever.</i></p>
-  <img src="https://komarev.com/ghpvc/?username=zjom&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </div>
